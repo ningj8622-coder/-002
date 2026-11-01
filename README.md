@@ -1,1 +1,3 @@
-private media storage.
+# 素材归档
+
+静态资源归档，按目录分类存放。
